@@ -246,7 +246,7 @@ Contains:
 - Research explorations
 
 ---
-
+<!--
 # 🚀 Projects
 
 Projects are categorized according to difficulty:
@@ -303,6 +303,7 @@ Examples:
 | Generative AI | ⏳ Planned |
 
 ---
+-->
 
 # 🛠️ Tech Stack
 

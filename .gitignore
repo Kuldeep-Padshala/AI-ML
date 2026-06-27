@@ -82,7 +82,7 @@ lightning_logs/
 # Dataset Files
 
 
-datasets/
+# datasets/
 datasets/raw/
 datasets/processed/
 datasets/external/

@@ -365,6 +365,12 @@ If you'd like to:
 
 Feel free to open an Issue or Pull Request.
 
+<!-- My contributions chart code for https://github.com/Kuldeep-Padshala/AI-ML -->
+
+Contibution chart:
+
+[![Contribution Chart](https://ghchart.rshah.org/Kuldeep-Padshala)](https://ghchart.rshah.org/Kuldeep-Padshala)
+
 ---
 
 # ⭐ Support

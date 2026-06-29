@@ -367,13 +367,13 @@ Feel free to open an Issue or Pull Request.
 
 <!-- My contributions chart code for https://github.com/Kuldeep-Padshala/AI-ML -->
 
-Contibution chart:
+<!-- Contibution chart:
 
 [![Contribution Chart](https://ghchart.rshah.org/Kuldeep-Padshala)](https://ghchart.rshah.org/Kuldeep-Padshala)
 
 line chart:
 
-[![Contribution Line Chart](https://ghchart.rshah.org/Kuldeep-Padshala?days=365&bg_color=ffffff&color=1b1f23&line_color=0366d6&point_color=28a745)](https://ghchart.rshah.org/Kuldeep-Padshala)
+[![Contribution Line Chart](https://ghchart.rshah.org/Kuldeep-Padshala?days=365&bg_color=ffffff&color=1b1f23&line_color=0366d6&point_color=28a745)](https://ghchart.rshah.org/Kuldeep-Padshala) -->
 
 
 ---

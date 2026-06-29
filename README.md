@@ -371,6 +371,10 @@ Contibution chart:
 
 [![Contribution Chart](https://ghchart.rshah.org/Kuldeep-Padshala)](https://ghchart.rshah.org/Kuldeep-Padshala)
 
+line chart:
+
+[![Kuldeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuldeep-Padshala&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=Kuldeep-Padshala&show_icons=true&theme=radical)
+
 ---
 
 # ⭐ Support

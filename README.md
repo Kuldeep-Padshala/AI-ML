@@ -357,7 +357,7 @@ This repository grows with every concept I learn.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeep-Padshala&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-For perticular repo:
+For particular repo:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeep-Padshala&repo=AI-ML&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />

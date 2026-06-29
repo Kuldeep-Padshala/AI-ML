@@ -373,7 +373,8 @@ Contibution chart:
 
 line chart:
 
-[![Kuldeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuldeep-Padshala&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=Kuldeep-Padshala&show_icons=true&theme=radical)
+[![Contribution Line Chart](https://ghchart.rshah.org/Kuldeep-Padshala?days=365&bg_color=ffffff&color=1b1f23&line_color=0366d6&point_color=28a745)](https://ghchart.rshah.org/Kuldeep-Padshala)
+
 
 ---
 

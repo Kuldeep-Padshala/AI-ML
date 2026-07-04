@@ -357,9 +357,9 @@ This repository grows with every concept I learn.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeep-Padshala&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?repo=AI-ML&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
+</div> -->
 
 <!-- The above code is not creating the desired effect. Instead of generating the contribution graph of this repo, it is 
 showing the contribution graph of the user's GitHub profile even when the correct repository is specified like this:

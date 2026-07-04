@@ -365,7 +365,7 @@ This repository grows with every concept I learn.
 showing the contribution graph of the user's GitHub profile even when the correct repository is specified like this:
 graph?repo=AI-ML -->
 
-<!-- how to fix this -->\
+<!-- how to fix this -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeep-Padshala&repo=AI-ML&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />

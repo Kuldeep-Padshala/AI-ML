@@ -1,6 +1,7 @@
 # Beta -> (β)
 # Sigma -> (σ)
 # summation -> (Σ)
+# Sigma -> (σ)
 # Derivative -> (∂)
 # learning rate -> (η)
 # y_hat -> (ŷ)
@@ -13,3 +14,4 @@
 # Lambda -> (λ)
 # theta -> (θ)
 # epsilon -> (ε₀)
+# delta -> (Δ)

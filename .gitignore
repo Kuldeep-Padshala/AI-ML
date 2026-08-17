@@ -125,7 +125,7 @@ events.out.tfevents.*
 
 # Archives
 
-
+*.json
 *.zip
 *.rar
 *.7z
